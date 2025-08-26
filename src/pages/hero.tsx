@@ -19,7 +19,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 const typeTexts = ["Web Developer", "Backend Engineer"];
-const navItems = ["Home", "Projects", "Contact"];
+const navItems = ["Home","About", "Projects & Skills","Services", "Contact"];
 
 const Hero = () => {
   const [typed, setTyped] = useState("");
